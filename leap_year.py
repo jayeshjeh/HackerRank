@@ -12,7 +12,6 @@ def is_leap(year):
             return True
     else:
         return leap
-
     return leap
 
 
